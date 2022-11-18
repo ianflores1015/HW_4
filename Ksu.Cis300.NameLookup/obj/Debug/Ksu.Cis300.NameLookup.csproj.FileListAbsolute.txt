@@ -1,0 +1,11 @@
+C:\Users\ianfl\Source\Repos\homework-4-assignment-ianflores1015\Ksu.Cis300.NameLookup\bin\Debug\Ksu.Cis300.NameLookup.exe.config
+C:\Users\ianfl\Source\Repos\homework-4-assignment-ianflores1015\Ksu.Cis300.NameLookup\bin\Debug\Ksu.Cis300.NameLookup.exe
+C:\Users\ianfl\Source\Repos\homework-4-assignment-ianflores1015\Ksu.Cis300.NameLookup\bin\Debug\Ksu.Cis300.NameLookup.pdb
+C:\Users\ianfl\Source\Repos\homework-4-assignment-ianflores1015\Ksu.Cis300.NameLookup\obj\Debug\Ksu.Cis300.NameLookup.csproj.AssemblyReference.cache
+C:\Users\ianfl\Source\Repos\homework-4-assignment-ianflores1015\Ksu.Cis300.NameLookup\obj\Debug\Ksu.Cis300.NameLookup.csproj.SuggestedBindingRedirects.cache
+C:\Users\ianfl\Source\Repos\homework-4-assignment-ianflores1015\Ksu.Cis300.NameLookup\obj\Debug\Ksu.Cis300.NameLookup.Properties.Resources.resources
+C:\Users\ianfl\Source\Repos\homework-4-assignment-ianflores1015\Ksu.Cis300.NameLookup\obj\Debug\Ksu.Cis300.NameLookup.UserInterface.resources
+C:\Users\ianfl\Source\Repos\homework-4-assignment-ianflores1015\Ksu.Cis300.NameLookup\obj\Debug\Ksu.Cis300.NameLookup.csproj.GenerateResource.cache
+C:\Users\ianfl\Source\Repos\homework-4-assignment-ianflores1015\Ksu.Cis300.NameLookup\obj\Debug\Ksu.Cis300.NameLookup.csproj.CoreCompileInputs.cache
+C:\Users\ianfl\Source\Repos\homework-4-assignment-ianflores1015\Ksu.Cis300.NameLookup\obj\Debug\Ksu.Cis300.NameLookup.exe
+C:\Users\ianfl\Source\Repos\homework-4-assignment-ianflores1015\Ksu.Cis300.NameLookup\obj\Debug\Ksu.Cis300.NameLookup.pdb
